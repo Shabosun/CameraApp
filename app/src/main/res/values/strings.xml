@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="capture_button">CaptureButton</string>
+    <string name="switch_torch">Torch</string>
+    <string name="seekbar_zoom">Zoom</string>
+    <string name="textview_zoom">Zoom</string>
+    <string name="switch_camera_button">SwitchCameraButton</string>
+</resources>
